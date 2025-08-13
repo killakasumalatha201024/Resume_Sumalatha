@@ -1,6 +1,5 @@
 # Resume_Sumalatha
 
-# 👋 Hi, I'm Killaka Sumalatha 
 
 📊 **Data Analyst** | 📈 Transforming data into actionable insights  
 
